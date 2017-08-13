@@ -1,6 +1,6 @@
 {
   "name": "fun-regex",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Functions for working with regexes functionally",
   "main": "src/index.js",
   "browser": "dist/bundle.js",
