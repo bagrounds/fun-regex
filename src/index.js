@@ -74,7 +74,7 @@
    * @return {RegExp} re with flags
    */
   function withFlags (re, flags) {
-    return RegExp(re, re.flags + flags)
+    return RegExp(re.source, re.flags + flags)
   }
 
   /**
