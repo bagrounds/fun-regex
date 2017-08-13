@@ -2,10 +2,6 @@
 
 Functions for working with regexes functionally
 
-# [fun-regex](https://bagrounds.gitlab.io/fun-regex)
-
-Functions for working with types functionally
-
 [![build-status](https://gitlab.com/bagrounds/fun-regex/badges/master/build.svg)](https://gitlab.com/bagrounds/fun-regex/commits/master)
 [![coverage-report](https://gitlab.com/bagrounds/fun-regex/badges/master/coverage.svg)](https://gitlab.com/bagrounds/fun-regex/commits/master)
 [![license](https://img.shields.io/npm/l/fun-regex.svg)](https://www.npmjs.com/package/fun-regex)
